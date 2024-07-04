@@ -1,0 +1,24 @@
+# Ignorar archivos de compilación
+*.class
+*.o
+*.so
+*.exe
+
+# Ignorar directorios de dependencias
+node_modules/
+vendor/
+dist/
+
+# Ignorar archivos de configuración de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de entornos virtuales de Python
+venv/
+__pycache__/
+token
+tokengit
+
